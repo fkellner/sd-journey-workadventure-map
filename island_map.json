@@ -888,7 +888,7 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"Creative Commons 3.0 NC-BY-SA"
+         "value":"Florian Kellner, Creative Commons 3.0 NC-BY-SA"
         }, 
         {
          "name":"mapDescription",
@@ -898,7 +898,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Gallery Walk Island"
+         "value":"Gallery Walk Island Debug Version"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
