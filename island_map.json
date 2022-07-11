@@ -42,7 +42,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/sd-journey.de\/maps\/posters\/medinetz.pdf"
+                 "value":"https:\/\/fkellner.github.io\/sd-journey-workadventure-map\/posters\/5_World_Bank.pdf"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -60,7 +60,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/sd-journey.de\/maps\/posters\/msf.pdf"
+                 "value":"https:\/\/fkellner.github.io\/sd-journey-workadventure-map\/posters\/6_Sustainable_Hospital.pdf"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -78,7 +78,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/sd-journey.de\/maps\/posters\/2mealsperday.pdf"
+                 "value":"https:\/\/fkellner.github.io\/sd-journey-workadventure-map\/posters\/2_Menu_For_The_Planet .pdf"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -96,7 +96,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/sd-journey.de\/maps\/posters\/brimore.pdf"
+                 "value":"https:\/\/fkellner.github.io\/sd-journey-workadventure-map\/posters\/4_Mobile_Recycling_Campaign.pdf"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -114,7 +114,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/sd-journey.de\/maps\/posters\/buntewiese.pdf"
+                 "value":"https:\/\/fkellner.github.io\/sd-journey-workadventure-map\/posters\/7_Colourful_Meadow.pdf"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -132,7 +132,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/sd-journey.de\/maps\/posters\/sewagetreatment.pdf"
+                 "value":"https:\/\/fkellner.github.io\/sd-journey-workadventure-map\/posters\/3_Bioinspired_Materials.pdf"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -150,7 +150,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/sd-journey.de\/maps\/posters\/sustainablefinance.pdf"
+                 "value":"https:\/\/fkellner.github.io\/sd-journey-workadventure-map\/posters\/1_Plural_Centre_For_Masculinities.pdf"
                 }],
          "type":"tilelayer",
          "visible":true,
